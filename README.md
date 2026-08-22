@@ -6,7 +6,7 @@ An end-to-end data analytics project exploring sales performance, product profit
 
 ## Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](dashboard.png)
+![E-Commerce Sales Analytics Dashboard](dashboard-preview.png)
 
 ---
 
