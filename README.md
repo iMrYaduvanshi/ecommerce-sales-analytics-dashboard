@@ -260,8 +260,8 @@ Desktop PC configurations dominate the individual SKU profit rankings:
 
 | File | Description |
 |---|---|
-| [`dashboard.png`](dashboard.png) | High-resolution screenshot of the completed Power BI Dashboard |
-| [`ecommerce_analysis.ipynb`](ecommerce_analysis.ipynb) | Jupyter Notebook containing all Python/Pandas data preparation and exploratory analysis |
+| [`dashboard-preview.png`](dashboard.png) | High-resolution screenshot of the completed Power BI Dashboard |
+| [`ecommerce_analytics.ipynb`](ecommerce_analysis.ipynb) | Jupyter Notebook containing all Python/Pandas data preparation and exploratory analysis |
 | [`ECommerce-Sales-Analytics-Dashboard.pbix`](ECommerce-Sales-Analytics-Dashboard.pbix) | Complete Power BI Desktop project file with data model, DAX measures, and interactive visuals |
 
 ---
